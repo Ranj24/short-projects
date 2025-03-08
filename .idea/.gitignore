@@ -12,3 +12,7 @@
 *.iml
 __pycache__/
 .DS_Store
+/misc.xml
+/modules.xml
+/inspectionProfiles/profiles_settings.xml
+/vcs.xml
